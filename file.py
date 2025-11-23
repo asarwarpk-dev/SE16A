@@ -14,3 +14,6 @@ def abdulahad():
 
 def ahmed():
     print("hello from ahmed")
+
+
+print("new line")
