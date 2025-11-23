@@ -7,6 +7,9 @@ def game():
 
 def aishawwww():
     print("Hello from aishawwww")
+    
+def ayesha():
+    print("Hello from ayesha")
 
 def abdulahad():
     print("Hello from ahad")
