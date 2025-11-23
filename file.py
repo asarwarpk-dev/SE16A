@@ -10,3 +10,7 @@ def ayesha():
 
 def abdulahad():
     print("Hello from ahad")
+
+
+def ahmed():
+    print("hello from ahmed")
