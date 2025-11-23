@@ -3,3 +3,7 @@ def calculator():
 
 def game():
     print("Hello from game")
+
+
+def ayesha():
+    print("Hello from ayesha")
