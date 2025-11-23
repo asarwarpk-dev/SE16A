@@ -5,8 +5,8 @@ def game():
     print("Hello from game")
 
 
-def aisha():
-    print("Hello from aisha")
+def ayesha():
+    print("Hello from ayesha")
 
 def abdulahad():
     print("Hello from ahad")
